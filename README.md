@@ -21,6 +21,11 @@ The dataset aims to calculate world club ranking for men's soccer/football. It c
 2. Manchester City
 3. Barcelona
 
+WE have all heard the saying "DEFENSE wins championship", so from our analysis we look at Team strength weighted by their soccer power index and defensive strength, with regards to competition difficulties. With this we view that - 
+1. Borussia Dortmund
+2. Barcelona
+3. Bayern Munchen
+
 ## Team Members
 
 Tako Nyabadza: I love to play soccer
