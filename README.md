@@ -37,3 +37,5 @@ Tako Nyabadza: I love to play soccer
 
 [![MilestoneVideo](https://youtu.be/c7EZh2R4lIw.jpg)](https://youtu.be/c7EZh2R4lIw)
 
+https://www.youtube.com/watch?v=c7EZh2R4lIw
+
